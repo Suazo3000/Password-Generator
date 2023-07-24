@@ -4,24 +4,12 @@
 
 The purpose of this project is to create an easy-to-use application that generates passwords. At times it is difficult to come up with new passwords, with this application that is no longer difficult. JavaScript password generator creates passwords with user input. These passwords have Upper case, lower case, special characters, and numbers that creates a unique password each time. This project has thought me some of JavaScript functionality, such as if statements, functions, event listener variables, and dot operators.  
 
-## Table of Contents (Optional)
+Technology Used
 
+-HTML
+-CSS
+-Javascript
  
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Usage
 
- 
-
-- [Installation](#installation)
-
-- [Usage](#usage)
-
-- [Credits](#credits)
-
-- [License](#license)
-
--Author
-
- 
-
-## Installation
